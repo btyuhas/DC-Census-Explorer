@@ -10,9 +10,6 @@ library('rvest')
 library('magrittr')
 library('shinythemes')
 
-census_api_key('b645f9b5bbd914cdcda312d81863e843a395e291',install=TRUE,overwrite = TRUE)
-readRenviron("~/.Renviron")
-
 vars <- read.csv("vars.csv", stringsAsFactors = F)
 
 VAlist <- c("Loudoun County", "Fairfax County", "Fairfax City", "Arlington County", "Alexandria")

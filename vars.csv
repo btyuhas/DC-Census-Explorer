@@ -1,0 +1,33 @@
+name,concept
+B01001B_001,Black Population
+B01001D_001,Asian Population
+B01001H_001,White Population
+B01001I_001,Hispanic Population
+B01002_001,Median Age
+B11007_002,Households With Resident Over 65
+B11005_002,Households With Resident Under 18
+B01003_001,Total Population
+B08013_001,Aggregate Travel Time to Work (In Minutes)
+B08015_001,Aggregate Number of Vehicles Used in Commuting
+B09001_001,Population Under 18
+B19013B_001,"Median Household Income, Black Alone"
+B19013D_001,"Median Household Income, Asian Alone"
+B19013H_001,"Median Household Income, White Alone"
+B19013I_001,"Median Household Income, Hispanic Alone"
+B19064_001,"Aggregate Interest, Dividends, or Net Rental Income"
+B19065_001,Aggregate Social Security Income
+B19066_001,Aggregate Supplemental Security Income
+B19067_001,Aggregate Public Assistance Income
+B19069_001,Aggregate Retirement  Income
+B19083_001,Gini Index of Income Inequality
+B23020_001,Mean Hours Worked per Week
+B25001_001,Housing Units
+B25018_001,Number of Rooms
+B25035_001,Year Structure Built
+B25056_001,Contract Rent
+B25057_001,Lower Contract Rent Quantile
+B25064_001,Median Gross Rent
+B25076_001,Lower Quartile Home Value
+B25077_001,Median Home Value
+B25078_001,Upper Quartile Home Value
+B25105_001,Median Monthly Housing Costs

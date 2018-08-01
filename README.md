@@ -5,4 +5,5 @@
 #### You may occasionaly run into an error, it's almost certainly due to missing data on the census API
 
 *app.R: code for the shiny app
+
 *vars.csv: some selected sample variables
